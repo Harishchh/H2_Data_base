@@ -1,0 +1,5 @@
+For H2 database
+
+jdbc url = jdbc:h2:mem:testdb
+user Name: sa
+user pwd :     ( should be blank ) 
